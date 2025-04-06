@@ -17,7 +17,7 @@ pip install -r requirements.txt
 python main.py
 
 
-🛠️ Configuration
+## 🛠️ Configuration
 1. Change the Folder Path
 To change the monitored folder, open the config.py file and modify the WATCHED_FOLDER value. The path must be specified as an absolute path.
 
